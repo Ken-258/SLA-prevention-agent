@@ -1,0 +1,50 @@
+[
+  {
+    "id": "INC-001",
+    "title": "Server is down",
+    "priority": "High",
+    "status": "breached",
+    "assigned_to": "Kenny",
+    "hours_left": -2.5
+  },
+  {
+    "id": "INC-002",
+    "title": "Login issue",
+    "priority": "High",
+    "status": "at-risk",
+    "assigned_to": "Farhat",
+    "hours_left": 1.5
+  },
+  {
+    "id": "INC-003",
+    "title": "Email not working",
+    "priority": "Medium",
+    "status": "ok",
+    "assigned_to": "Elie",
+    "hours_left": 9
+  },
+  {
+    "id": "INC-004",
+    "title": "Printer not working",
+    "priority": "Low",
+    "status": "ok",
+    "assigned_to": "Farhat",
+    "hours_left": 24
+  },
+  {
+    "id": "INC-005",
+    "title": "Network latency issue",
+    "priority": "Medium",
+    "status": "at-risk",
+    "assigned_to": "Kenny",
+    "hours_left": 3
+  },
+  {
+    "id": "INC-006",
+    "title": "VPN not connecting",
+    "priority": "High",
+    "status": "breached",
+    "assigned_to": "Elie",
+    "hours_left": -1
+  }
+]
