@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 
 The SLA Prevention Agent is a full-stack web application designed to help organizations ensure timely resolution of support tickets.
@@ -148,3 +149,7 @@ Integrate Slack/Email notifications for at-risk tickets.
 Replace JSON with Firestore or PostgreSQL for persistence.
 Add authentication for secure dashboard access.
 Implement AI-based chatbot using NLP for smarter answers.
+=======
+# SLA-prevention-agent
+The SLA Prevention Agent is a fully automated, serverless solution designed to transform IT support from a reactive model to a proactive one.
+>>>>>>> a24296987f814a8d10d896697eb831fbf0aed6fa
